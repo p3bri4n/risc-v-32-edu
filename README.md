@@ -1,5 +1,7 @@
 # risc-v-32-edu
 
+![Logo](logo-risc-v-32-edu.jpg)
+
 Simulateur pédagogique d'un processeur RISC-V 32 bits (RV32I),
 construit depuis les portes logiques NAND jusqu'à l'exécution
 out-of-order (algorithme de Tomasulo) avec hiérarchie mémoire complète.
