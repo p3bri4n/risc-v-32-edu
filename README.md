@@ -1,4 +1,4 @@
-# pyRiskV
+# risc-v-32-edu
 
 Simulateur pédagogique d'un processeur RISC-V 32 bits (RV32I),
 construit depuis les portes logiques NAND jusqu'à l'exécution
